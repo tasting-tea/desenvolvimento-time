@@ -3,7 +3,11 @@
 ## Parte I
 
 ### Github: O que são? Onde vivem? Do que se alimentam?
-O GitHub é uma rede social de desenvolvedores.
+
+Em suma, o GitHub é um serviço baseado em nuvem que hospeda um sistema de controle de versão chamado Git. Ele permite que os desenvolvedores colaborem e façam mudanças em projetos compartilhados enquanto mantêm um registro detalhado do seu progresso.
+
+
+O GitHub também é uma "rede social" de desenvolvedores.
 
 
 ### O básico
