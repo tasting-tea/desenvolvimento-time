@@ -47,7 +47,7 @@ O repositório é a pasta do projeto.
 
 * <b>README.md</b><br>
 README é o cartão de visita do seu código! <br>
-É um arquivo de texto utilizado para descrever o seu projeto. Ele não é obrigatório, mas é essencial se o seu repositório for público, pois explica da a comunidade, o qual o propósito do seu projeto.<br>
+É um arquivo de texto utilizado para descrever o seu projeto. Ele não é obrigatório, mas é essencial se o seu repositório for público, pois explica a comunidade, qual o propósito do seu projeto.<br>
 [Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)<br>
 [exemplo perfil readme](https://github.com/ibrahimcesar)<br>
 [exemplo perfil readme](https://github.com/gabriellearruda)
