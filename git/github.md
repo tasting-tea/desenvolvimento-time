@@ -71,9 +71,9 @@ Como temos branches protegidas essa é única maneira de se atualizar em live as
 
   2. Adione uma foto qualquer a sua pasta!
 
-  3. Dê um fork nessa pasta (depois você pode excluir é só para aprender a fazer).
+  3. Crie um PR para atualizar a master com a sua branch.
   
-  4. Crie um PR para atualizar a master com a sua branch.
+  4. Dê um fork nessa pasta (depois você pode excluir é só para aprender a fazer). 
 </details>
 
 
