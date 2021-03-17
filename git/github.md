@@ -106,7 +106,8 @@ A principal ferramenta utilizada para determinar quais arquivos estão em quais 
 ## Agora sem a mão!
 
 * <b>VisualCodeStudio</b><br>
-
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
 
 ## Prática Parte II!
 <details>
