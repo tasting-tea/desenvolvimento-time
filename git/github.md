@@ -59,15 +59,21 @@ Branches são separações de código. Branches normalmente são utilizados para
 É uma cópia do projeto para fora do repositório original.<br>
 Fork é usado normalmente quando você vai iniciar um novo projeto baseado no original, a branch são para alteracões curtas/temporárias.
 
+* <b>PR</b><br>
+Um pull request é um pedido de alteracão do repositório, para que esse atualize o código anterior com o seu código.<br>
+Como temos branches protegidas essa é única maneira de se atualizar em live as ferramentas e a API.<br>
+
 
 ## Prática Parte I!
 <details>
   <br>
-  1. Crie uma branch nova nesse diretório com seu nome (ex: gabrielle) e coloque dentro seu arquivo README.
+  1. Crie uma branch nova nesse diretório, crie uma pasta dentro de (/git) pra você com seu nome (ex: gabrielle) e coloque dentro seu arquivo README.
 
   2. Adione uma foto qualquer a sua pasta!
 
   3. Dê um fork nessa pasta (depois você pode excluir é só para aprender a fazer).
+  
+  4. Crie um PR para atualizar a master com a sua branch.
 </details>
 
 
@@ -94,16 +100,7 @@ Se seu código está desatualizado você precisa fazer o git pull.
 * <b>git status</b><br>
 A principal ferramenta utilizada para determinar quais arquivos estão em quais estados.
 
-* <b>PR</b><br>
-Um pull request é um pedido de alteracão do repositório, para que esse atualize o código anterior com o seu código.<br>
-Como temos branches protegidas essa é única maneira de se atualizar em live as ferramentas e a API.<br>
-
 <img src="git-trans.png">
-
-## Prática Parte III!
-<details>
-  1. Crie um PR para atualizar a master com a sua branch.
-</details>
 
 
 ## Agora sem a mão!
@@ -111,8 +108,17 @@ Como temos branches protegidas essa é única maneira de se atualizar em live as
 * <b>VisualCodeStudio</b><br>
 
 
-## Prática Parte III!
+## Prática Parte II!
 <details>
-  1. Clone o datasource no seu computador (vamos trabalhar com ele em breve!)
-  2. .
+  <br>
+  1. Clone esse repositório no seu computador.
+  
+  2. Faca uma alteracão no seu README.
+  
+  3. Envie essa alteracão via VisualCodeStudio.
 </details>
+
+
+## Para pós sessão!
+
+  1. Clone o datasource no seu computador (vamos trabalhar com ele em breve!)
