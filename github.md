@@ -36,16 +36,34 @@ exemplo recente: Jancer e a análise do prontuário e-SUS/ [análises do NEXO Jo
 
 ## O básico
 
+[git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)<br>
+[Dicionário Git e GitHub](https://gist.github.com/victorsenam/8580499)<br>
+[Aprenda Git do básico ao avançado](https://comandosgit.github.io/)
 
-[git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+#### Conceitos
 
+* <b>Repositório</b><br>
+O repositório é a pasta do projeto.
+
+* <b>README.md</b><br>
+README é o cartão de visita do seu código! <br>
+É um arquivo de texto utilizado para descrever o seu projeto. Ele não é obrigatório, mas é essencial se o seu repositório for público, pois explica da a comunidade, o qual o propósito do seu projeto.<br>
+[Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)<br>
+[exemplo perfil readme](https://github.com/ibrahimcesar)<br>
+[exemplo perfil readme](https://github.com/gabriellearruda)
+
+* <b>Branch</b><br>
+Branches são separações de código. Branches normalmente são utilizados para separar alterações a serem atualizadas sem afetar a branch principal.
+
+* <b>Fork</b><br>
+É uma cópia do projeto para fora do repositório original.<br>
+Fork é usado normalmente quando você vai iniciar um novo projeto baseado no original, a branch são para alteracões curtas/temporárias.
 
 
 ## Prática Parte I!
 <details>
-  1. Crie uma pasta nesse diretório com seu nome (ex: gabrielle) e coloque dentro seu arquivo README.
-  
-  [Como fazer um README.md BONITÃO](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8)
+  <br>
+  1. Crie uma branch nova nesse diretório com seu nome (ex: gabrielle) e coloque dentro seu arquivo README.
 
   2. Adione uma foto qualquer a sua pasta!
 
@@ -55,10 +73,39 @@ exemplo recente: Jancer e a análise do prontuário e-SUS/ [análises do NEXO Jo
 
 ## Indo além
 
+#### Comandos
+
+* <b>git clone</b><br>
+Um clone de um repositório funciona como cópia de um repositório online em um repositório local. 
+
+* <b>git pull</b><br>
+É uma atualização do repositório local com a versão mais atual do projeto online. 
+
+* <b>git add</b><br>
+Para propor mudanças (adicioná-las ao Index). 
+
+* <b>git commit</b><br>
+Confirma as mudanças e nomeia com uma frase que comenta as alterações. Agora o arquivo é enviado para o HEAD, mas ainda não para o repositório remoto online.
+
+* <b>git push</b><br>
+Para enviar as alterações do commit ao seu repositório remoto.<br>
+Se seu código está desatualizado você precisa fazer o git pull.
+
+* <b>git status</b><br>
+A principal ferramenta utilizada para determinar quais arquivos estão em quais estados.
+
+* <b>PR</b><br>
+Um pull request é um pedido de alteracão do repositório, para que esse atualize o código anterior com o seu código.<br>
+Como temos branches protegidas essa é única maneira de se atualizar em live as ferramentas e a API.<br>
+
+<img src="git-trans.png">
+
 ## Agora sem a mão!
+
+* <b>VisualCodeStudio</b><br>
 
 
 ## Prática Parte II!
 <details>
-  1. Clone o datasource no seu computador (vamos trabalhar ele em breve!)
+  1. Clone o datasource no seu computador (vamos trabalhar com ele em breve!)
 </details>
