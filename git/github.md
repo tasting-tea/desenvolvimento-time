@@ -116,7 +116,7 @@ git config --global user.name "Your Name"
   
   2. Faca uma alteracão no seu README.
   
-  3. Envie essa alteracão via VisualCodeStudio.
+  3. Envie essa alteracão via Visual Studio Code.
 </details>
 
 
