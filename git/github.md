@@ -35,7 +35,7 @@ exemplo recente: Jancer e a análise do prontuário e-SUS/ [análises do NEXO Jo
 [exemplo coronacidades](https://github.com/ImpulsoGov/coronacidades-datasource/settings/branches)<br>
 
 ## O básico
-[github sem código](https://guides.github.com/activities/hello-world/)
+[github sem código](https://guides.github.com/activities/hello-world/)<br>
 [git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html)<br>
 [Dicionário Git e GitHub](https://gist.github.com/victorsenam/8580499)<br>
 [Aprenda Git do básico ao avançado](https://comandosgit.github.io/)
